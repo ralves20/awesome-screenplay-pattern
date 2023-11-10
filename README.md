@@ -30,16 +30,12 @@ _Focusing on actors and their goals and incorporating your domain language into 
   * [Screen.play.write](https://github.com/HamedFathi/screen.play.write)
 * Kotlin
   * [Screenplay-Kotlin](https://github.com/anoop5i/serenity-screenplay-cucumber-kotlin-starter)
-* PHP
-  * [infection/infection](https://github.com/infection)
 * Python
   * [ScreenPy](https://screenpy-docs.readthedocs.io/en/latest/)
   * [selenium-screenplay-python](https://github.com/AutomationPanda/selenium-screenplay-python)
   * [Moliere](https://github.com/Moustov/Moliere)
 * Ruby
   * [Screengem](https://github.com/nulogy/screengem)
-* Rust
-  * [llogiq/mutagen](https://github.com/llogiq/mutagen)
 * Other
   * [Cypress with patterns](https://github.com/thiagojacinto/cypress-with-patterns)
   * [ScreenPlayArchitecture](https://github.com/bancolombia/ScreenPlayArchitecture)
