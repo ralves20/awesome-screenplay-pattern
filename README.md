@@ -28,6 +28,7 @@ _Focusing on actors and their goals and incorporating your domain language into 
 * JavaScript / TypeScript
   * [Serenity JS](https://github.com/serenity-js)
   * [Screen.play.write](https://github.com/HamedFathi/screen.play.write)
+  * [Thekla](https://andy-schulz.github.io/thekla/)
 * Kotlin
   * [Screenplay-Kotlin](https://github.com/anoop5i/serenity-screenplay-cucumber-kotlin-starter)
 * Python
