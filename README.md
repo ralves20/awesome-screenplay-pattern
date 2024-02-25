@@ -25,22 +25,34 @@ _Focusing on actors and their goals and incorporating your domain language into 
   * [Serenity BDD](https://github.com/serenity-bdd/serenity-core)
   * [Shakespeare Framework](https://github.com/mkutz/Shakespeare)
   * [Flick](https://github.com/unruly/flick)
+  * [screenplay-web](https://github.com/ankowals/screenplay-web)
+  * [j-screenplay](https://github.com/donatas-b/j-screenplay)
 * JavaScript / TypeScript
   * [Serenity JS](https://github.com/serenity-js)
   * [Screen.play.write](https://github.com/HamedFathi/screen.play.write)
+  * [screenplay.js](https://github.com/cucumber/screenplay.js)
   * [Thekla](https://andy-schulz.github.io/thekla/)
+  * [Testla](https://github.com/testla-project/testla-screenplay-core-js)
 * Kotlin
   * [Screenplay-Kotlin](https://github.com/anoop5i/serenity-screenplay-cucumber-kotlin-starter)
 * Python
   * [ScreenPy](https://screenpy-docs.readthedocs.io/en/latest/)
   * [selenium-screenplay-python](https://github.com/AutomationPanda/selenium-screenplay-python)
   * [Moliere](https://github.com/Moustov/Moliere)
+  * [screenplay-py](https://github.com/dsbonafe/screenplay-py)
+  * [screenpy](https://github.com/ScreenPyHQ/screenpy)
 * Ruby
   * [Screengem](https://github.com/nulogy/screengem)
+  * [screenplay-ruby](https://github.com/juniorschmitz/screenplay-ruby)
 * Other
   * [Cypress with patterns](https://github.com/thiagojacinto/cypress-with-patterns)
+  * [Cypress-screenplay](https://github.com/AmazeeLabs/cypress-screenplay)
   * [ScreenPlayArchitecture](https://github.com/bancolombia/ScreenPlayArchitecture)
   * [Playwright Using Screenplay](https://github.com/georgait/QAToolsPoc)
+  * [TestCafe using Screenplay](https://github.com/atejeda-automation/testcafe-screenplay)
+  * [WinAppDriver using Screenplay](https://github.com/ingjuanfg/WinAppDriver-Screenplay-Test)
+  * [jPlay - Playwright with screenplay](https://github.com/DanteGrek/jPlay)
+  * [app-Tiger](https://github.com/gematik/app-Tiger)
 
 
 ### Papers
