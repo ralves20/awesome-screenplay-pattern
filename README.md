@@ -55,6 +55,13 @@ _Focusing on actors and their goals and incorporating your domain language into 
   * [app-Tiger](https://github.com/gematik/app-Tiger)
 
 
+### Projects Templates
+* JavaScript
+  * [Tesla with Playwright](https://github.com/testla-project/testla-screenplay-playwright-js)
+  * [Cucumber with Serenity](https://github.com/ralfleonir/playwright-screenplay)
+* Python
+  * [Python Tesla with Playwright](https://github.com/testla-project/testla-screenplay-playwright-py)
+
 ### Papers
 
 * [A Comparative Analysis of Quality Page Object and Screenplay Design Pattern on Web-based Automation Testing](https://ieeexplore.ieee.org/document/9179470)
