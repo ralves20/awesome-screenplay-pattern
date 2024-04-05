@@ -21,6 +21,8 @@ _Focusing on actors and their goals and incorporating your domain language into 
   * [Boa Constrictor](https://q2ebanking.github.io/boa-constrictor/)
   * [Tranquire](https://github.com/Galad/tranquire)
   * [Suzianna](https://github.com/suzianna/Suzianna)
+* Go
+  * [cucumber-screenplay-go](https://github.com/sirockin/cucumber-screenplay-go)
 * Java/JVM
   * [Serenity BDD](https://github.com/serenity-bdd/serenity-core)
   * [Shakespeare Framework](https://github.com/mkutz/Shakespeare)
